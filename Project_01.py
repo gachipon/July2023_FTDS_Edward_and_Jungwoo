@@ -19,7 +19,6 @@ def calculate_annual_deposits():
 # Loop based function to show the value accumulated every year
 # Nice to show each value in a table or list
 def tabulate_annual_deposits():
-
     end_of_year_value = 0
     end_of_year_list = []
     for i in range(number_of_contributions):
